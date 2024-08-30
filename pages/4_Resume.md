@@ -33,7 +33,7 @@
 :black_small_square: Master of Pharmacy, major in Pharmaceutical Sciences, Prince of Songkla University, Thailand.
 
 
-:black_small_square: Bachalor of Sciences, major in Traditional Thai Medicine, Prince of Songkla University, Thailand.
+:black_small_square: Bachalor of Sciences, major in Traditional Thai Medicine (2nd Class honor), Prince of Songkla University, Thailand.
 
 
 ![](/images/line04.png)
