@@ -1,13 +1,31 @@
 ![](/images/cv-header.png)
 
 
-# *4. Resume*
+# 4. Resume*
 
 
 ##### Go back to first page [Click](/online_cv/README.md)
 
 
-### Education :
+
+### *Current position :*
+
+
+Postdoctoral researcher, Division of Pharmaceutical Biology, Department of Biology,
+Faculty of Natural Sciences, Friedrich–Alexander University Erlangen–Nuremberg, Germany
+
+
+### *Previous position :*
+
+
+Research assistance, Department of Pharmacognosy and Pharmaceutical Botany, Faculty of Pharmaceutical Sciences,
+Prince of Songkla University, Thailand.
+
+
+![](/images/line04.png)
+
+
+### *Education :*
 
 2022
 
@@ -27,3 +45,6 @@ Prince of Songkla University, Thailand.
 
 Bachalor of Sciences, major in Traditional Thai Medicine, with Second Class honor, Faculty of Traditional Thai Medicine,
 Prince of Songkla University, Thailand.
+
+
+![](/images/line04.png)
