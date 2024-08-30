@@ -19,19 +19,19 @@ You can find me at the official website of Division of Pharmacetical Biology: [C
 ### *More about me:* ![](/images/line04.png)
 
 
-#### *1. Current Projects, Fundings and collaboration: [Here]()*
+#### *1. News :bangbang: : [Here]()*
 
 
-#### *2. Teching Course: [Here]()*
+#### *2. Current Projects :lab_coat: , Fundings :moneybag: and collaboration :airplane: : [Here]()*
 
 
-#### *3. Education & Working Experiences: [Here]()*
+#### *3. Teching Course :books: : [Here]()*
 
 
-#### *4. Skills and Relevent Works: [Here]()*
+#### *4. Resume :memo: : [Here]()*
 
 
-#### *5. Publications: [Here]()*
+#### *5. Pulications :microscope: : [Here]()*
 
 
 #### *6. My other academic profiles: [Link]()*
@@ -40,6 +40,6 @@ You can find me at the official website of Division of Pharmacetical Biology: [C
 ![](/images/line04.png)
 
 
-###### *Contact me via FAU email [Click](mailto:thanet.pitakbut@fau.de) TU-Dortmund email [Click](mailto:thanet.pitakbut@fau.de)*
+###### *Contact me via :mailbox: FAU email :envelope: [Click](mailto:thanet.pitakbut@fau.de) TU-Dortmund email :envelope: [Click](mailto:thanet.pitakbut@fau.de)*
 
 
