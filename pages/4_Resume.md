@@ -29,6 +29,12 @@
 
 :black_small_square: Research assistance, Department of Pharmacognosy and Pharmaceutical Botany, Prince of Songkla University, Thailand.
 
+&nbsp;
+
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *Responsibilities*
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :heavy_multiplication_x:
 
 ![](/images/line04.png)
 
