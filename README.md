@@ -3,7 +3,7 @@
 # Welcome to my personal website
 
 
-### *Get to know me in 1 minute:*
+### *Get to know me in 1 minute :*
 
 Hi, my name is Thanet Pitakbut. I completed my PhD in Chemical Biology under supervision of Prof. Dr. Dr. h.c. Oliver Kayser at Technical Biochemistry, TU Dortmund, Germany. My PhD was sponsored by DAAD (Deutscher Akademischer Austauschdienst or German Academic Exchange Service). 
 
@@ -16,7 +16,7 @@ You can find me at the official website of Division of Pharmacetical Biology: [C
 
 
 
-### *More about me:* ![](/images/line04.png)
+### *More about me :* ![](/images/line04.png)
 
 
 #### *1. News :bangbang: : [Here]()*
