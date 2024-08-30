@@ -14,6 +14,15 @@
 
 :black_small_square: Postdoctoral researcher, Division of Pharmaceutical Biology, Friedrich–Alexander University Erlangen–Nuremberg, Germany.
 
+&nbsp;
+
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *Responsibilities*
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :heavy_multiplication_x: Teaching Practical course in Pharmaceutical Biology.
+
+&nbsp;
+
 
 ### *Previous position :*
 
