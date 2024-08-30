@@ -11,7 +11,7 @@ Hi, my name is Thanet Pitakbut. I completed my PhD in Chemical Biology under sup
 Currently, I am working as a postdoctoral researcher under Prof. Dr. Gregor Fuhrmann at Divison of Pharmaceutical Biology, FAU, Erlangen, Germany. My current project is about investigating the molecular interactions of natural products and antimicrobial resistant bacteria. I aim to leverage computing teachonology like AI to establish a synergistic formulation for better antibacterial treatment. 
 
 
-You can find me at the official website of Division of Pharmacetical Biology: [Click here](https://www.pharmbio.nat.fau.de/person/685/).
+You can find me at the official website of Division of Pharmacetical Biology: [Click](https://www.pharmbio.nat.fau.de/person/685/).
 
 
 
@@ -19,19 +19,19 @@ You can find me at the official website of Division of Pharmacetical Biology: [C
 ### *More about me:* ![](/images/line04.png)
 
 
-#### *1. Current Projects, Fundings and collaboration: [Link]()*
+#### *1. Current Projects, Fundings and collaboration: [Here]()*
 
 
-#### *2. Teching Course: [Link]()*
+#### *2. Teching Course: [Here]()*
 
 
-#### *3. Education & Working Experiences: [Link]()*
+#### *3. Education & Working Experiences: [Here]()*
 
 
-#### *4. Skills and Relevent Works: [Link]()*
+#### *4. Skills and Relevent Works: [Here]()*
 
 
-#### *5. Publications: [Link]()*
+#### *5. Publications: [Here]()*
 
 
 #### *6. My other academic profiles: [Link]()*
