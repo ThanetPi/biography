@@ -15,24 +15,24 @@ You can find me at the official website of Division of Pharmacetical Biology: [C
 
 ## More information about me:
 
-##### My current projects: [Link]()
+#### *My current projects: [Link]()*
 
 
-##### My education & working experiences: [Link]()
+#### *My education & working experiences: [Link]()*
 
 
-##### My skills and relevent examples: [Link]()
+#### *My skills and relevent examples: [Link]()*
 
 
-##### My research publications: [Link]()
+#### *My research publications: [Link]()*
 
 
-##### My other profiless: [Link]()
+#### *My other profiless: [Link]()*
 
 
 ![](/images/line04.png)
 
 
-contanct information: 
+###### *Contact me via FAU email [Click](thanet.pitakbut@fau.de) TU-Dortmund email [Click](thanet.pitakbut@fau.de)*
 
 
