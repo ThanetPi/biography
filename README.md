@@ -6,7 +6,7 @@
 
 ### *Get to know me in 1 minute :*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hi and thank you for visiting my webpage. My name is Thanet Pitakbut. I completed my PhD in Chemical Biology under supervision of Prof. Dr. Dr. h.c. Oliver Kayser at Technical Biochemistry, TU Dortmund, Germany. My PhD was sponsored by DAAD (Deutscher Akademischer Austauschdienst or German Academic Exchange Service). 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hi and thank you for visiting my websie. My name is Thanet Pitakbut. I completed my PhD in Chemical Biology under supervision of Prof. Dr. Dr. h.c. Oliver Kayser at Technical Biochemistry, TU Dortmund, Germany. My PhD was sponsored by DAAD (Deutscher Akademischer Austauschdienst or German Academic Exchange Service). 
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Currently, I am working as a postdoctoral researcher under Prof. Dr. Gregor Fuhrmann at Divison of Pharmaceutical Biology, FAU, Erlangen, Germany. My current project is about investigating the molecular interactions of natural products and antimicrobial resistant bacteria. I aim to leverage computing teachonology like AI to establish a synergistic formulation for better antibacterial treatment. 
