@@ -24,7 +24,7 @@ You can find me at the official website of the Division of Pharmaceutical Biolog
 
 
 
-#### *1. News :bangbang: : [Here](/pages/0_page_under_construction.md)*
+#### *1. News :bangbang: : [Here](https://github.com/ThanetPi/online_cv/edit/main//pages/0_page_under_construction.md)*
 
 
 #### *2. Current Projects :lab_coat: , Fundings :moneybag: and collaboration :airplane: : [Here](/pages/0_page_under_construction.md)*
