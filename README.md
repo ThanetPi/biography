@@ -24,27 +24,27 @@ You can find me at the Division of Pharmaceutical Biology official website: [Cli
 
 
 
-#### *1. News :bangbang: : [Click](/0_page_under_construction.md)*
+#### *1. News ‼️ : [Click](/0_page_under_construction.md)*
 
 
-#### *2. Current Projects :lab_coat: , Fundings :moneybag: and collaboration :airplane: : [Click](/0_page_under_construction.md)*
+#### *2. Current Projects 🥼 , Fundings 💰 and collaboration ✈️ : [Click](/0_page_under_construction.md)*
 
 
-#### *3. Teaching Course :books: : [Click](/0_page_under_construction.md)*
+#### *3. Teaching Course 📚 : [Click](/0_page_under_construction.md)*
 
 
-#### *4. Resume :memo: : [Click](/0_page_under_construction.md)*
+#### *4. Resume 📝 : [Click](/0_page_under_construction.md)*
 
 
-#### *5. Publications :microscope: : [Click](/0_page_under_construction.md)*
+#### *5. Publications 🔬 : [Click](/0_page_under_construction.md)*
 
 
-#### *6. My other academic profiles: [Click](/0_page_under_construction.md)*
+#### *6. My other profiles 🎓 and social media 🎬 : [Click](/0_page_under_construction.md)*
 
 
 ![](/images/line04.png)
 
 
-###### *Contact me via :mailbox: FAU email :envelope: [Click](mailto:thanet.pitakbut@fau.de) TU-Dortmund email :envelope: [Click](mailto:thanet.pitakbut@fau.de)*
+###### *Contact me via 📫 FAU email ✉️ [Click](mailto:thanet.pitakbut@fau.de) TU-Dortmund email ✉️ [Click](mailto:thanet.pitakbut@fau.de)*
 
 
