@@ -1,7 +1,7 @@
 ![](/images/cv-header.png)
 
 
-# 4. Resume
+# 4. Resume :memo:
 
 
 ##### Go back to first page [Click](/online_cv/README.md)
