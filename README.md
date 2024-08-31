@@ -24,22 +24,22 @@ You can find me at the official website of the Division of Pharmaceutical Biolog
 
 
 
-#### *1. News :bangbang: : [Here]()*
+#### *1. News :bangbang: : [Here](pages/0_page_under_construction.md)*
 
 
-#### *2. Current Projects :lab_coat: , Fundings :moneybag: and collaboration :airplane: : [Here]()*
+#### *2. Current Projects :lab_coat: , Fundings :moneybag: and collaboration :airplane: : [Here](pages/0_page_under_construction.md)*
 
 
-#### *3. Teaching Course :books: : [Here]()*
+#### *3. Teaching Course :books: : [Here](pages/0_page_under_construction.md)*
 
 
-#### *4. Resume :memo: : [Here]()*
+#### *4. Resume :memo: : [Here](pages/0_page_under_construction.md)*
 
 
-#### *5. Publications :microscope: : [Here]()*
+#### *5. Publications :microscope: : [Here](pages/0_page_under_construction.md)*
 
 
-#### *6. My other academic profiles: [Link]()*
+#### *6. My other academic profiles: [Link](pages/0_page_under_construction.md)*
 
 
 ![](/images/line04.png)
