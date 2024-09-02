@@ -9,7 +9,7 @@
 &nbsp;&nbsp;
 
 
-### *Current position :*
+### Current position :
 
 
 ▪️ Postdoctoral researcher, Division of Pharmaceutical Biology, Friedrich–Alexander University Erlangen–Nuremberg, Germany.
@@ -24,17 +24,17 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✖️ &nbsp;&nbsp;&nbsp; Publishing research articles. [See 2.]()
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✖️ &nbsp;&nbsp;&nbsp; Supervising students training project and co-supervising Bachalor thesis project.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✖️ &nbsp;&nbsp;&nbsp; Supervising students training project and co-supervising Bachelor thesis project.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✖️ &nbsp;&nbsp;&nbsp; Teaching Practical course in Pharmaceutical Biology. [See 3.]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✖️ &nbsp;&nbsp;&nbsp; Teaching a practical course in Pharmaceutical Biology (Plant microscopic features). [See 3.]()
 
 &nbsp;
 
 
-### *Previous position :*
+### Previous position :
 
 
-:black_small_square: Research assistance, Department of Pharmacognosy and Pharmaceutical Botany, Prince of Songkla University, Thailand.
+▪️ Research assistance, Department of Pharmacognosy and Pharmaceutical Botany, Prince of Songkla University, Thailand.
 
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *Responsibilities*
@@ -44,14 +44,19 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✖️ &nbsp;&nbsp;&nbsp;Performing literature research.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✖️ &nbsp;&nbsp;&nbsp; Gethering and analysing research data.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✖️ &nbsp;&nbsp;&nbsp;Gethering and analysing research data.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✖️ &nbsp;&nbsp;&nbsp;Writing research proposal and articles.
 
 
 ![](../images/line04.png)
 
-### Research and soft skills
+### Research skills and experiences:
+
+▪️ **Molecular Biology:** 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✖️ &nbsp;&nbsp;&nbsp; Nucleotide (DNA and RNA) extraction and purification, bacterial transformation, PCR, qPCR, primer design, and sequence 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; analysis. [Example article](https://www.mdpi.com/2223-7747/11/3/321)
 
 
 &nbsp;&nbsp;
@@ -59,13 +64,13 @@
 
 ### *Education :*
 
-:black_small_square: Doctor of Natural Sciences, Department of Biochemical and Chemical Engineering, Techincal University of Dortmund, Germany.
+▪️ Doctor of Natural Sciences, Department of Biochemical and Chemical Engineering, Techincal University of Dortmund, Germany.
 
 
-:black_small_square: Master of Pharmacy, major in Pharmaceutical Sciences, Prince of Songkla University, Thailand.
+▪️ Master of Pharmacy, major in Pharmaceutical Sciences, Prince of Songkla University, Thailand.
 
 
-:black_small_square: Bachalor of Sciences, major in Traditional Thai Medicine (2nd Class honor), Prince of Songkla University, Thailand.
+▪️ Bachelor of Sciences, major in Traditional Thai Medicine (2nd Class honor), Prince of Songkla University, Thailand.
 
 
 ![](../images/line04.png)
