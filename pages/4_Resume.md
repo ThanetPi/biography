@@ -57,8 +57,7 @@
 
 ▪️ **Molecular Biology 🧬 and plant biotechnology 🪴 :** 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✖️ &nbsp;&nbsp;&nbsp; *Nucleotide (DNA and RNA) extraction and purification, bacterial transformation, PCR, qPCR, primer design, sequence analysis* 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *and plant tissue cultures.*  [MolecularBio Example](https://www.mdpi.com/2223-7747/11/3/321), [PlantBiotech Example](https://www.mdpi.com/2223-7747/10/8/1493).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✖️ &nbsp;&nbsp;&nbsp; *Nucleotide (DNA and RNA) extraction and purification, bacterial transformation, PCR, qPCR, primer design, sequence analysis and plant tissue cultures.*  [MolecularBio Example](https://www.mdpi.com/2223-7747/11/3/321), [PlantBiotech Example](https://www.mdpi.com/2223-7747/10/8/1493).
 
 &nbsp;
 
