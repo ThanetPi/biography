@@ -85,7 +85,8 @@
 
 ### Education 🎓 :
 
-▪️ Doctor of Natural Sciences, Department of Biochemical and Chemical Engineering, Techincal University of Dortmund, Germany.
+▪️ Doctor of Natural Sciences (translated from Doktor der Naturwissenschaften), Department of Biochemical and Chemical Engineering, 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Techincal University of Dortmund, Germany.
 
 
 ▪️ Master of Pharmacy, major in Pharmaceutical Sciences, Prince of Songkla University, Thailand.
@@ -97,4 +98,4 @@
 ![](../images/line04.png)
 
 
-##### Go back to first page [Click](/online_cv/README.md)
+###### Go back to first page [Click](/online_cv/README.md)
