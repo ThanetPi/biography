@@ -1,6 +1,7 @@
 ![](/images/cv-header.png)
 
 # Welcome to my website
+###### To see the webpage: [click here](https://thanetpi.github.io/biography/)
 
 &nbsp;
 
