@@ -1,4 +1,4 @@
-![](/images/cv-header.png)
+![](../images/cv-header.png)
 
 &nbsp;
 
