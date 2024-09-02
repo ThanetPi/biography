@@ -24,7 +24,7 @@ You can find me at the Division of Pharmaceutical Biology official website: [Cli
 
 
 
-#### *1. News ‼️ : [Click](/0_page_under_construction.md)*
+#### *1. News ‼️ : [Click](/pages/0_page_under_construction.md)*
 
 
 #### *2. Current Projects 🥼 , Fundings 💰 and collaboration ✈️ : [Click](/0_page_under_construction.md)*
