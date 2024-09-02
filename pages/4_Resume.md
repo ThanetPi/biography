@@ -18,7 +18,7 @@
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *Responsibilities*
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✖️ &nbsp;&nbsp;&nbsp; *Conducting and establishing a research project and collaboration.* [See 2.](../0_page_under_construction.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✖️ &nbsp;&nbsp;&nbsp; *Conducting and establishing a research project and collaboration.* [See 2.](./0_page_under_construction.md)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✖️ &nbsp;&nbsp;&nbsp; *Writing and submiting research grants and fundings.* [See 1,](/0_page_under_construction.md) [See 2.](../pages/0_page_under_construction.md)
 
