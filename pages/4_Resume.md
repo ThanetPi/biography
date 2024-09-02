@@ -62,7 +62,7 @@
 &nbsp;&nbsp;
 ![](../images/line04.png)
 
-### *Education :*
+### Education :
 
 ▪️ Doctor of Natural Sciences, Department of Biochemical and Chemical Engineering, Techincal University of Dortmund, Germany.
 
