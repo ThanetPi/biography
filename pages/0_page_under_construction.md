@@ -1,4 +1,4 @@
-![](https://github.com/ThanetPi/biography/blob/main/images/cv-header.png)
+![](/images/cv-header.png)
 
 &nbsp;
 
