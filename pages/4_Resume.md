@@ -1,10 +1,10 @@
-![](/images/cv-header.png)
+![](../images/cv-header.png)
 
 
 # 4. Resume :memo:
 
 
-##### Go back to first page [Click](/online_cv/README.md)
+###### Go back to first page [Click](/online_cv/README.md)
 
 &nbsp;&nbsp;
 
@@ -12,14 +12,21 @@
 ### *Current position :*
 
 
-:black_small_square: Postdoctoral researcher, Division of Pharmaceutical Biology, Friedrich–Alexander University Erlangen–Nuremberg, Germany.
+▪️ Postdoctoral researcher, Division of Pharmaceutical Biology, Friedrich–Alexander University Erlangen–Nuremberg, Germany.
 
-&nbsp;
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *Responsibilities*
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :heavy_multiplication_x: Teaching Practical course in Pharmaceutical Biology.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✖️ &nbsp;&nbsp;&nbsp; Conducting and establishing a research project and collaboration. [See 2.]()
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✖️ &nbsp;&nbsp;&nbsp; Writing and submiting research grants and fundings. [See 1,]() [See 2.]()
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✖️ &nbsp;&nbsp;&nbsp; Publishing research articles. [See 2.]()
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✖️ &nbsp;&nbsp;&nbsp; Supervising students training project and co-supervising Bachalor thesis project.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✖️ &nbsp;&nbsp;&nbsp; Teaching Practical course in Pharmaceutical Biology. [See 3.]()
 
 &nbsp;
 
@@ -29,16 +36,26 @@
 
 :black_small_square: Research assistance, Department of Pharmacognosy and Pharmaceutical Botany, Prince of Songkla University, Thailand.
 
-&nbsp;
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *Responsibilities*
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :heavy_multiplication_x:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✖️ &nbsp;&nbsp;&nbsp;Conducting research experiments.
 
-![](/images/line04.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✖️ &nbsp;&nbsp;&nbsp;Performing literature research.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✖️ &nbsp;&nbsp;&nbsp; Gethering and analysing research data.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✖️ &nbsp;&nbsp;&nbsp;Writing research proposal and articles.
+
+
+![](../images/line04.png)
+
+### Research and soft skills
+
 
 &nbsp;&nbsp;
+![](../images/line04.png)
 
 ### *Education :*
 
@@ -51,7 +68,7 @@
 :black_small_square: Bachalor of Sciences, major in Traditional Thai Medicine (2nd Class honor), Prince of Songkla University, Thailand.
 
 
-![](/images/line04.png)
+![](../images/line04.png)
 
 
 ##### Go back to first page [Click](/online_cv/README.md)
