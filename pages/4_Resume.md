@@ -73,6 +73,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✖️ &nbsp;&nbsp;&nbsp; *End-point and kinetic enzyme measurement (UV-Vis, Fluorescence, and FRET), molecular docking simulation (AD4, AD Vina,*
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *and DOCK6), and Structure-Activity Relationship analysis.* [EnzInDocking Example](https://www.thieme-connect.com/products/ejournals/abstract/10.1055/a-1581-3707)
 
+&nbsp;
+
+▪️ **Statistic 🔢, machine learning 🤖 and programing languages 🐍 :**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✖️ &nbsp;&nbsp;&nbsp; *Basic statistical analysis including, parametric (t-test and ANOVA), non-parametric (Wilcoxon and Kruskal-Wallis tests), linear* 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *and non-linear regression, classification analysis and Python.* [Stat Example](https://www.mdpi.com/2304-8158/13/1/55), [ML Example](https://zenodo.org/records/13378561), [Program Example](https://github.com/ThanetPi/pyTecanEx)
+
 &nbsp;&nbsp;
 ![](../images/line04.png)
 
