@@ -40,7 +40,7 @@ You can find me at the Division of Pharmaceutical Biology official website: [Cli
 #### *5. Publications 🔬 : [Click](/0_page_under_construction.md)*
 
 
-#### *6. My other profiles 🎓 and social media 🎬 : [Click](/0_page_under_construction.md)*
+#### *6. My other profiles 🎓 and social media 🎬 : [Click](/pages/6_other_profiles.md)*
 
 
 ![](/images/line04.png)
