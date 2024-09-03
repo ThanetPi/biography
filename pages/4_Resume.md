@@ -4,7 +4,7 @@
 # 4. Resume :memo:
 
 
-###### Go back to first page [Click](../README.md)
+###### Go back to the first page [Click](../README.md)
 
 &nbsp;
 
@@ -98,4 +98,4 @@
 ![](../images/line04.png)
 
 
-###### Go back to first page [Click](/online_cv/README.md)
+###### Go back to the first page [Click](../README.md)
