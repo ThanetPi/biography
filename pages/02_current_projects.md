@@ -20,7 +20,7 @@
 
 &nbsp;
 
-## *Fundings 💰 and Collaboration ✈️ :*
+## *Fundings 💰 and Collaborations ✈️ :*
 
 __2023 - Project-related exchange for scientists (Projektbezogener Wissenschaftleraustausch), BayCHINA__
 
