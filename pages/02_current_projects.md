@@ -33,4 +33,16 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://english.siat.cas.cn"><img src="http://english.siat.ac.cn/images/siat-logo2.png" alt="SIAT banner" width="700" height="102"></a>
 
+&nbsp;
 
+2023 - Stiftungsmittel der Hertha und Helmut Schmauser-Stiftung, Faculty of Natural Sciences, FAU
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __Project:__ *Chemical library expansion and establishing the anti-beta-lactamase assay*
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.nat.fau.de"><img src="https://www.wordpress.rrze.fau.de/files/2021/11/fau-nat-digital.svg" alt="FUA FakNat" width="700" height="102"></a>
+
+&nbsp;
+
+![](../images/line04.png)
+
+###### Go back to the first page [Click](../README.md)
