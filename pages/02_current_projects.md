@@ -10,9 +10,7 @@
 
 ## *Current Projects 🥼 :*
 
-&nbsp;
-
-- FARM-BIOMOL chemical library establishment   [*Click*](https://pharmbio-fau-erlangen.github.io/FARM-BIOMOL/)
+- FARM-BIOMOL chemical library establishment  &nbsp;&nbsp;&nbsp; <a href="https://thanetpi.github.io/FARM-BIOMOL/"><img src="https://pharmbio-fau-erlangen.github.io/FARM-BIOMOL/logo/2024-Chemlib-logo-V2.png" alt="SIAT HPC banner" width="150" height="50"></a>
 
 - Molecular simulation, AI, and natural products-based anti-infective drug discovery research
   
