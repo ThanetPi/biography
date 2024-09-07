@@ -39,7 +39,7 @@ __2023 - Project-related exchange for scientists (Projektbezogener Wissenschaftl
 
 __2023 - Stiftungsmittel der Hertha und Helmut Schmauser-Stiftung, Faculty of Natural Sciences, FAU__
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *__Project:__ Chemical library expansion and establishing the anti-beta-lactamase assay*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *__Project:__ Chemical library expansion and anti-beta-lactamase assay establishment*
 
 &nbsp;
 
