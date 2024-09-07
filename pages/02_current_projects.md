@@ -24,7 +24,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __Host:__ *Prof. Yanjie Wei*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __Project:__ *Combining Molecular Simulation and Machine Learning for Drug Screening.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __Lab:__ *Center of HPC, SIAT, CAS, China*
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __Project:__ *Combining Molecular Simulation and Machine Learning for Drug Screening*
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://hpcc.siat.ac.cn/english/hpc.html"><img src="https://lh4.googleusercontent.com/proxy/uMRbjEXedYPctcSHenfCcjTsQfzg7kVaWuHQPIaaNjKZ-BaMO-pTiZvFVLcBcniVbzEnU4EPO_GUUBf1XmQImqgOFvo-eLFVRVBTm_BYc2EDULlGgc1hBWjs3L4bAtMoP5_4-W-22E0nILX_JdfouBf1UloRhwb55S2EYcpu" alt="SIAT HPC banner" width="700" height="150"></a>
