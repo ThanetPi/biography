@@ -1,3 +1,5 @@
 title: Dr. Thanet Pitakbut's Biography
 description: Dr. Thanet Pitakbut's Biography
 author: Dr. Thanet Pitakbut
+
+{% include head.html %}
