@@ -37,6 +37,18 @@ __2023 - Project-related exchange for scientists (Projektbezogener Wissenschaftl
 
 &nbsp;
 
+__2023 - Stiftungsmittel der Gustav-Adolf and Erika Dornhecker-Stiftung, Department of Chemistry and Pharmacy, FAU__
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *__Host:__ Prof. Florence Tama*
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *__Lab:__ Computational Structural Biology Research Team, RCCS, Japan*
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *__Project:__ GROMACS Molecular Dynamic research training*
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.riken.jp/en/research/labs/r-ccs/comput_struct_biol/index.html"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQZ0XITbzj8HtiT3YyWSwCwZ8Ylwl4gdekZA&s" alt="RCCS banner" width="700" height="150"></a>
+
+&nbsp;
+
 __2023 - Stiftungsmittel der Hertha und Helmut Schmauser-Stiftung, Faculty of Natural Sciences, FAU__
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *__Project:__ Chemical library expansion and anti-beta-lactamase assay establishment*
