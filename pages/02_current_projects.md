@@ -45,6 +45,7 @@ __2023 - Stiftungsmittel der Gustav-Adolf and Erika Dornhecker-Stiftung, Departm
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *__Project:__ GROMACS Molecular Dynamic research training*
 
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.riken.jp/en/research/labs/r-ccs/comput_struct_biol/index.html"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQZ0XITbzj8HtiT3YyWSwCwZ8Ylwl4gdekZA&s" alt="RCCS banner" width="700" height="150"></a>
 
 &nbsp;
