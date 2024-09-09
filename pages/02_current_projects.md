@@ -10,11 +10,11 @@
 
 ## *Current Projects 🥼 :*
 
-- FARM-BIOMOL chemical library establishment  &nbsp;&nbsp;&nbsp; <a href="https://thanetpi.github.io/FARM-BIOMOL/"><img src="https://pharmbio-fau-erlangen.github.io/FARM-BIOMOL/logo/2024-Chemlib-logo-V2.png" alt="SIAT HPC banner" width="150" height="60"></a>
+### - FARM-BIOMOL chemical library establishment  &nbsp;&nbsp;&nbsp; <a href="https://thanetpi.github.io/FARM-BIOMOL/"><img src="https://pharmbio-fau-erlangen.github.io/FARM-BIOMOL/logo/2024-Chemlib-logo-V2.png" alt="SIAT HPC banner" width="150" height="60"></a>
 
-- Molecular simulation, AI, and natural products-based anti-infective drug discovery research
+### - Molecular simulation, AI, and natural products-based anti-infective drug discovery research
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; " 🚨🚧 Information of the project is under construction 🚧🚨"
+&nbsp;&nbsp; " 🚨🚧 Information of the project is under construction 🚧🚨"
 
 &nbsp;
 
@@ -22,7 +22,7 @@
 
 &nbsp;
 
-__2023 - Project-related exchange for scientists (Projektbezogener Wissenschaftleraustausch), BayCHINA__
+### __2023 - Project-related exchange for scientists (Projektbezogener Wissenschaftleraustausch), BayCHINA__
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *__Host:__ Prof. Yanjie Wei*
 
@@ -38,7 +38,7 @@ __2023 - Project-related exchange for scientists (Projektbezogener Wissenschaftl
 
 &nbsp;
 
-__2023 - Stiftungsmittel der Gustav-Adolf and Erika Dornhecker-Stiftung, Department of Chemistry and Pharmacy, FAU__
+### __2023 - Stiftungsmittel der Gustav-Adolf and Erika Dornhecker-Stiftung, Department of Chemistry and Pharmacy, FAU__
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *__Host:__ Prof. Florence Tama*
 
@@ -53,7 +53,7 @@ __2023 - Stiftungsmittel der Gustav-Adolf and Erika Dornhecker-Stiftung, Departm
 
 &nbsp;
 
-__2023 - Stiftungsmittel der Hertha und Helmut Schmauser-Stiftung, Faculty of Natural Sciences, FAU__
+### __2023 - Stiftungsmittel der Hertha und Helmut Schmauser-Stiftung, Faculty of Natural Sciences, FAU__
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *__Project:__ Chemical library expansion and anti-beta-lactamase assay establishment*
 
@@ -61,6 +61,22 @@ __2023 - Stiftungsmittel der Hertha und Helmut Schmauser-Stiftung, Faculty of Na
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.nat.fau.de"><img src="https://www.wordpress.rrze.fau.de/files/2021/11/fau-nat-digital.svg" alt="FUA FakNat" width="700" height="102"></a>
 
+&nbsp;
+
+### __2017 - DAAD Doctoral scholarship, DAAD__
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *__Supervisor:__ Prof. Dr. Dr.h.c. Oliver Kayser*
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *__Lab:__ Techincal Biochemistry, BCI, TU-Dortmund, Germany*
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *__Project:__ Benefits of endophytic bacteria in plant defend and bioactivites of relevant NPs*
+
+&nbsp;
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57135739"><img src="https://www.uni-giessen.de/de/fbz/zentren/ggl/dateiblock/daad_logo/@@images/image.jpeg" alt="DAAD logo" width="700" height="60"></a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://tb.bci.tu-dortmund.de"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Technische_Universität_Dortmund_Logo.svg/1280px-Technische_Universität_Dortmund_Logo.svg.png" alt="TU Dortmund logo" width="500" height="100"></a>
 
 ![](../images/line04.png)
 
