@@ -37,7 +37,7 @@ You can find me at the Division of Pharmaceutical Biology official website: [Cli
 #### *4. Resume 📝 : [Click](/pages/4_resume.md)*
 
 
-#### *5. Publications 🔬 : [Click](/0_page_under_construction.md)*
+#### *5. Publications 🔬 : [Click](/pages/05_publication.md)*
 
 
 #### *6. My other profiles 🎓 and social media 🎬 : [Click](/pages/6_other_profiles.md)*
