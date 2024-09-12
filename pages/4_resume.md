@@ -18,15 +18,15 @@
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *Responsibilities*
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✖️ &nbsp;&nbsp;&nbsp; *Conducting and establishing a research project and collaboration.* [See 2.](./0_page_under_construction.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✖️ &nbsp;&nbsp;&nbsp; *Conducting and establishing a research project and collaboration.* [See 2.](./02_current_projects.md)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✖️ &nbsp;&nbsp;&nbsp; *Writing and submiting research grants and fundings.* [See 1,](/0_page_under_construction.md) [See 2.](../pages/0_page_under_construction.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✖️ &nbsp;&nbsp;&nbsp; *Writing and submiting research grants and fundings.* [See 1,](/0_page_under_construction.md) [See 2.](./02_current_projects.md)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✖️ &nbsp;&nbsp;&nbsp; *Publishing research articles.* [See 2.](../0_page_under_construction.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✖️ &nbsp;&nbsp;&nbsp; *Publishing research articles.* [See 5.](./05_publication.md)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✖️ &nbsp;&nbsp;&nbsp; *Supervising students training project and co-supervising Bachelor thesis project.*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✖️ &nbsp;&nbsp;&nbsp; *Teaching a practical course in Pharmaceutical Biology (Plant microscopic features).* [See 3.](../0_page_under_construction.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✖️ &nbsp;&nbsp;&nbsp; *Teaching a practical course in Pharmaceutical Biology (Plant microscopic features).* [See 3.](./3_teching.md)
 
 &nbsp;
 
