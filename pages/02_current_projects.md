@@ -72,7 +72,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *__Lab:__ Techincal Biochemistry, BCI, TU-Dortmund, Germany*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *__Project:__ Benefits of endophytic bacteria in plant defend and bioactivites of relevant NPs*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *__Project:__ Antidiabetic activity of selected indigenous Thai medicinal plants*
 
 &nbsp;
 
@@ -80,6 +80,19 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57135739"><img src="https://www.uni-giessen.de/de/fbz/zentren/ggl/dateiblock/daad_logo/@@images/image.jpeg" alt="DAAD logo" width="800" height="60"></a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://tb.bci.tu-dortmund.de"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Technische_Universität_Dortmund_Logo.svg/1280px-Technische_Universität_Dortmund_Logo.svg.png" alt="TU Dortmund logo" width="450" height="90"></a>
+
+&nbsp;
+
+#### *__2016 - ÖeAD Research visiting scholarship, ÖeAD__*
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *__Supervisor:__ Prof. Dr. Adelheid Brantner(retired)*
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *__Lab:__ Department of Pharmacognosy, Institute of Pharmaceutical Sciences, Uni Graz*
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *__Project:__ Benefits of endophytic bacteria in plant defend and bioactivites of relevant NPs*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://oead.at/en/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/15/OeAD_-_Agentur_für_Bildung_und_Internationalisierung.png" alt="öead logo" width="450" height="202"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://pharmazie.uni-graz.at/de/unsere-forschung/pharmakognosie/#:~:text=Die%20Pharmakognosiker%20der%20Universität%20Graz,pflanzlicher%20Arzneimittel%20der%20Echinacea%2DArten."><img src="https://static.uni-graz.at/fileadmin/grafik/logos/Logo_Uni-Graz_Schriftzug_4c_DE.jpg" alt="uni graz logo" width="480" height="200"></a>
+
 
 ![](../images/line04.png)
 
