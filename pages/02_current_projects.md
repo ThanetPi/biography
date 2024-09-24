@@ -72,7 +72,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *__Lab:__ Techincal Biochemistry, BCI, TU-Dortmund, Germany*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *__Project:__ Antidiabetic activity of selected indigenous Thai medicinal plants*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *__Project:__ Benefits of bacterial endophytic communities in plant defend and bioactivities of relevant NPs*
 
 &nbsp;
 
@@ -89,7 +89,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *__Lab:__ Department of Pharmacognosy, Institute of Pharmaceutical Sciences, Uni Graz*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *__Project:__ Benefits of endophytic bacteria in plant defend and bioactivites of relevant NPs*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *__Project:__ Antidiabetic activity of selected indigenous Thai medicinal plants*
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://oead.at/en/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/15/OeAD_-_Agentur_für_Bildung_und_Internationalisierung.png" alt="öead logo" width="450" height="202"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://pharmazie.uni-graz.at/de/unsere-forschung/pharmakognosie/#:~:text=Die%20Pharmakognosiker%20der%20Universität%20Graz,pflanzlicher%20Arzneimittel%20der%20Echinacea%2DArten."><img src="https://static.uni-graz.at/fileadmin/grafik/logos/Logo_Uni-Graz_Schriftzug_4c_DE.jpg" alt="uni graz logo" width="480" height="200"></a>
 
