@@ -50,4 +50,4 @@ You can find me at the Division of Pharmaceutical Biology official website: [Cli
 ###### *Google verification [Go](/google2ab565fb0d6ca3a3.html)*
 {% include head.html %}
 
-###### Copyright © 2024 by Thanet Pitakbut. 
+###### *Copyright © 2024 by Thanet Pitakbut*
