@@ -46,8 +46,6 @@ You can find me at the Division of Pharmaceutical Biology official website: [Cli
 ![](/images/line04.png)
 
 
-###### *Contact me via 📫 FAU email ✉️ [Click](mailto:thanet.pitakbut@fau.de) TU-Dortmund email ✉️ [Click](mailto:thanet.pitakbut@fau.de)*
-###### *Google verification [Go](/google2ab565fb0d6ca3a3.html)*
+###### *Contact me via 📫 FAU email ✉️ [Click](mailto:thanet.pitakbut@fau.de) TU-Dortmund email ✉️ [Click](mailto:thanet.pitakbut@fau.de) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Google verification [Go](/google2ab565fb0d6ca3a3.html)*
 {% include head.html %}
-
-###### *Copyright © 2024 by Thanet Pitakbut*
+###### *Copyright © 2024 by Thanet Pitakbut. All rights reserved.*
