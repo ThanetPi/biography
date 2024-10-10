@@ -22,3 +22,4 @@ Below are some interesting medicinal plants, human tissue, and their microscopic
 ![](../images/line04.png)
 
 ###### Go back to the first page [Click](../README.md)
+###### Copyright © 2024 by Thanet Pitakbut. All rights reserved.
