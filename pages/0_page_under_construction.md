@@ -2,7 +2,11 @@
 
 &nbsp;
 
-## News and updates :rocket::first_quarter_moon:
+## 1. News and updates :rocket::first_quarter_moon:
+
+###### Go back to the first page [Click](../README.md)
+
+&nbsp;
 
 #### - 2024 October
 
