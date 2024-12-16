@@ -10,9 +10,13 @@
 
 #### - 2024 October
 
-Good news!!! Our first manuscript on ML, digital drug discovery, and natural products against resistant bacterial infection was accepted for publication in BMC Chemistry Journal under the Chemistry and Machine Learning collection.
+Good news!!! My first manuscript on ML, digital drug discovery, and natural products against resistant bacterial infection was accepted for publication in BMC Chemistry Journal under the Chemistry and Machine Learning collection.
 
 ![](../images/24oct_news2a.png)
+
+Another paper is out!!! With collaboration from a Thai partner, I performed a molecular simulation supporting  a biological experiment. We found some interesting findings! Please check it out :)
+
+Here is a link: [Click](https://www.mdpi.com/2075-1729/14/11/1400)
 
 
 #### - 2024 July
