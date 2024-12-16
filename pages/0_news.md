@@ -20,3 +20,7 @@ Good news!!! Our first manuscript on ML, digital drug discovery, and natural pro
 Fruitfull discussion my project with international experts and research at the International Congress on Natural Products Research, which was organized by GA and co-organized by multiple international natural products scientific associations, such as DFERP (France), ISF (Italy), PSE (EU), ASP (USA), JSP (Japan), and KSP (Korea).
 
 ![](../images/24july_poster.png)
+
+![](../images/line04.png)
+###### Go back to the first page [Click](../README.md)
+###### Copyright © 2024 by Thanet Pitakbut. All rights reserved.
