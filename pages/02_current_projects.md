@@ -15,7 +15,7 @@
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *- Molecular simulation, AI, and natural products-based anti-infective drug discovery research*
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[Click](../pages/02_1_AIDD_infection.md)]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[Click](../../pages/02_1_AIDD_infection.md)]
 
 &nbsp;
 
