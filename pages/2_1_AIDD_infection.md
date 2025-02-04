@@ -31,5 +31,7 @@ The fast development of antimicrobial-resistant bacteria is one of the factors p
 
 #### Further reading:
 
-Pitakbut, T., Munkert, J., Xi, W., Wei, Y. and Fuhrmann, G., 2024. Utilizing machine learning-based QSAR model to overcome standalone consensus docking limitation in beta-lactamase inhibitors screening: a proof-of-concept study. BMC chemistry, 18(1), p.249. 
+Pitakbut, T., Munkert, J., Xi, W., Wei, Y. and Fuhrmann, G., 2024. Utilizing machine learning-based QSAR model to overcome standalone consensus docking limitation in beta-lactamase inhibitors screening: a proof-of-concept study. BMC Chemistry, 18(1), p.249. 
+
+###### Read the article [Click here!](https://link.springer.com/article/10.1186/s13065-024-01324-x)
 
