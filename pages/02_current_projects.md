@@ -97,4 +97,4 @@
 ![](../images/line04.png)
 
 ###### Go back to the first page [Click](../README.md)
-###### Copyright © 2024 by Thanet Pitakbut. All rights reserved.
+###### Copyright © 2025 by Thanet Pitakbut. All rights reserved.
