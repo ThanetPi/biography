@@ -34,8 +34,6 @@
 
 &nbsp;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://hpcc.siat.ac.cn/english/hpc.html"><img src="https://lh4.googleusercontent.com/proxy/uMRbjEXedYPctcSHenfCcjTsQfzg7kVaWuHQPIaaNjKZ-BaMO-pTiZvFVLcBcniVbzEnU4EPO_GUUBf1XmQImqgOFvo-eLFVRVBTm_BYc2EDULlGgc1hBWjs3L4bAtMoP5_4-W-22E0nILX_JdfouBf1UloRhwb55S2EYcpu" alt="SIAT HPC banner" width="700" height="150"></a>
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://english.siat.cas.cn"><img src="https://www.asam.net/index.php?eID=dumpFile&t=f&f=4101&token=5823a0c50380f855872f0eabd12ae94a6a4a636c" alt="SIAT banner" width="700" height="102"></a>
 
 &nbsp;
