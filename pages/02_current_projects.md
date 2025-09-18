@@ -11,7 +11,7 @@
 
 ## Current Projects 🥼 :
 
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *- Predicting and designing olfactory molecules*  &nbsp;&nbsp;&nbsp; 👃🦋 [[Click](https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-science/valorisation/mmd-hub/navigation/mmd-project-predicting-and-designing-olfactory-molecules.html)]
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *- Predicting and designing olfactory molecules*  &nbsp;&nbsp;&nbsp; 👃🦋 [Click](https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-science/valorisation/mmd-hub/navigation/mmd-project-predicting-and-designing-olfactory-molecules.html)
 
 
 
@@ -24,9 +24,7 @@
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *- FARM-BIOMOL chemical library establishment*  &nbsp;&nbsp;&nbsp; <a href="https://pharmbio-fau-erlangen.github.io/FARM-BIOMOL/"><img src="https://pharmbio-fau-erlangen.github.io/FARM-BIOMOL/logo/2024-Chemlib-logo-V2.png" alt="SIAT HPC banner" width="150" height="60"></a>
 
 
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *- Molecular simulation, AI, and natural products-based anti-infective drug discovery research*
-  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🤖💊 [[Click](./sub_page/02_1_AIDD_infection.md)]
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *- Molecular simulation, AI, and natural products-based anti-infective drug discovery research* 🤖💊 [Click](./sub_page/02_1_AIDD_infection.md)
 
 &nbsp;
 
