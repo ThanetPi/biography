@@ -1,4 +1,4 @@
-![](/images/cv-header.png)
+![](/images/250918cv_header.png)
 
 # Welcome to my website
 ###### To see the webpage: [click here](https://thanetpi.github.io/biography/)
