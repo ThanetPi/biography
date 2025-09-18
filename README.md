@@ -5,20 +5,18 @@
 
 &nbsp;
 ![](/images/cv2024_foto2.png)
-### *Get to know me in 1 minute :*
+### *Get to know me in 1 minute:*
 
 Hi, and thank you for visiting my website. My name is Thanet Pitakbut. I completed my PhD in Chemical Biology under the supervision of Prof. Dr. h.c. Oliver Kayser at Technical Biochemistry, TU Dortmund, Germany. My PhD was sponsored by DAAD (Deutscher Akademischer Austauschdienst or German Academic Exchange Service). 
 
 
-Currently, I am a postdoctoral researcher under Prof. Dr. Gregor Fuhrmann at the Division of Pharmaceutical Biology, FAU, Erlangen, Germany. My current project investigates the molecular interactions of natural products and antimicrobial-resistant bacteria. I aim to leverage computing technology like AI to establish a synergistic formulation for better antibacterial treatment.
+I am a postdoctoral researcher under Prof. Dr. Astrid Groot at the Institute for Biodiversity and Ecosystem Dynamics (IBED), University of Amsterdam (UvA), the Netherlands. I am working on the research collaboration project "Predicting and designing olfactory molecules," which is funded by The Molecular and Material Design Technology Hub (MMD TechHub). This project is a highly interdisciplinary project that involves multiple scientific fields and experts, including biology, chemistry, mathematics, and AI. 
 
 &nbsp;
 
-
-You can find me at the Division of Pharmaceutical Biology official website: [Click](https://www.pharmbio.nat.fau.de/person/685/).
+The office website for the project can be found here: [Click](https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-science/valorisation/mmd-hub/navigation/mmd-project-predicting-and-designing-olfactory-molecules.html).
 
 &nbsp;
-
 
 ### *More about me :* 
 ![](/images/line04.png)
@@ -46,7 +44,7 @@ You can find me at the Division of Pharmaceutical Biology official website: [Cli
 ![](/images/line04.png)
 
 
-###### *Contact me via 📫 FAU email ✉️ [Click](mailto:thanet.pitakbut@fau.de) TU-Dortmund email ✉️ [Click](mailto:thanet.pitakbut@fau.de)* 
+###### *Contact me via 📫 UvA email ✉️ [Click](mailto:t.pitakbut@uva.nl)* 
 ###### *Copyright © 2025 by Thanet Pitakbut. All rights reserved.*
 
 {% include head.html %}
