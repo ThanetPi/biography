@@ -1,5 +1,6 @@
-![](../images/cv-header.png)
+![](../images/250918_cv_header.png)
 
+&nbsp;
 
 # 3. Teaching experience 📚
 
@@ -8,7 +9,7 @@
 
 &nbsp;
 
-Since 2022, I have been actively involved in teaching, supervising, and organizing the Pharmaceutical Biology I (PB I) practical course for second-semester pharmacy and food chemistry students in collaboration with my postdoctoral colleague every year. The PB I practical course covers a wide range of essential microscopic features of plants, microbes, and humans. This course provides a strong foundation in biology, pharmacy, and pre-clinical knowledge, preparing students for more advanced studies.
+From 2022 - 2024, I have been actively involved in teaching, supervising, and organizing the Pharmaceutical Biology I (PB I) practical course for second-semester pharmacy and food chemistry students in collaboration with my postdoctoral colleague every year. The PB I practical course covers a wide range of essential microscopic features of plants, microbes, and humans. This course provides a strong foundation in biology, pharmacy, and pre-clinical knowledge, preparing students for more advanced studies.
 
 &nbsp;
 
