@@ -43,7 +43,7 @@
 
 &nbsp;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://english.siat.cas.cn"><img src="https://www.asam.net/index.php?eID=dumpFile&t=f&f=4101&token=5823a0c50380f855872f0eabd12ae94a6a4a636c" alt="SIAT banner" width="700" height="102"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [](../images/250918_SIAT_Logo__002_.png)
 
 &nbsp;
 
