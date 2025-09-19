@@ -1,5 +1,6 @@
-![](../images/cv-header.png)
+![](../images/250918_cv_header.png)
 
+&nbsp;
 
 # 6. Other profiles 🎓 and social media 🎬 :
 
