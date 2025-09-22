@@ -7,12 +7,17 @@
 ###### Go back to the first page [Click](../README.md)
 
 &nbsp;
+#### - 2025 September
+
+I received an oppotunity to talk and discuss about the potential of my previous project on AI and Thailand development at APTER 2025, Gent, Belgium.
+
+![](/images/250920_apter2025.png)
+
 
 #### - 2025 April
 
 I have started my new position athethe Institute for Biodiversity and Ecosystem Dynamics (IBED), University of Amsterdam (UvA), the Netherlands.
 
-&nbsp;
 
 #### - 2024 October
 
