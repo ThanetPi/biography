@@ -18,9 +18,19 @@ The office website for the project can be found here: [Click](https://www.uva.nl
 
 &nbsp;
 
-### *More about me :* 
+### *Lastest update :* 
 ![](/images/line04.png)
 
+#### - 2025 September
+
+I received an oppotunity to talk and discuss about the potential of my previous project on AI and Thailand development at APTER 2025, Gent, Belgium.
+
+![](/images/250920_apter2025.png)
+
+&nbsp;
+
+### *More about me :* 
+![](/images/line04.png)
 
 
 #### *1. News ‼️ : [Click](/pages/0_news.md)*
