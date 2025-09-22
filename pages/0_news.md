@@ -11,7 +11,7 @@
 
 I received an oppotunity to talk and discuss about the potential of my previous project on AI and Thailand development at APTER 2025, Gent, Belgium.
 
-![](/images/250920_apter2025.png)
+![](../images/250920_apter2025.png)
 
 
 #### - 2025 April
