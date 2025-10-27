@@ -9,7 +9,11 @@
 
 &nbsp;
 
-## *As the first author*
+## *As the first and co-corresponding author*
+
+- __Pitakbut, T.__, Munkert, J., Xi, W., Wei, Y. and Fuhrmann, G., 2025. A dataset for machine learning-based QSAR models establishment to screen beta-lactamase inhibitors using the FARM-BIOMOL chemical library. BMC Research Notes, 18(1), p.91.                                __[Co-corresponding author]__
+
+- __Pitakbut, T.__, Munkert, J., Xi, W., Wei, Y. and Fuhrmann, G., 2024. Utilizing machine learning-based QSAR model to overcome standalone consensus docking limitation in beta-lactamase inhibitors screening: a proof-of-concept study. BMC Chemistry, 18(1),p.249.
 
 - __Pitakbut, T.__, Spiteller, M. and Kayser, O., 2022. Genome mining and gene expression reveal maytansine biosynthetic genes from endophytic communities living inside Gymnosporia heterophylla (Eckl. and Zeyh.) Loes. and the relationship with the plant biosynthetic gene, friedelin synthase. Plants, 11(3), p.321.
 
