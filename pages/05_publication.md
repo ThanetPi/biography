@@ -6,10 +6,13 @@
 
 
 ###### Go back to the first page [Click](../README.md)
+(last update on October 2025)
 
 &nbsp;
 
 ## *As the first and co-corresponding author*
+
+- __Pitakbut, T.__ and Kayser, O., 2025. Anti-Infective Screening of Selected Nine Cannabinoids Against Clostridium perfringens and Influenza A (H5N1) Neuraminidases, and SARS-CoV-2 Main Protease and Spike Protein Interactions. Current Issues in Molecular Biology, 47(3), p.185. __[Co-corresponding author]__
 
 - __Pitakbut, T.__, Munkert, J., Xi, W., Wei, Y. and Fuhrmann, G., 2025. A dataset for machine learning-based QSAR models establishment to screen beta-lactamase inhibitors using the FARM-BIOMOL chemical library. BMC Research Notes, 18(1), p.91.                                __[Co-corresponding author]__
 
@@ -24,7 +27,7 @@
 - __Pitakbut, T.__, Spiteller, M. and Kayser, O., 2021. In Vitro Production and Exudation of 20-Hydroxymaytenin from Gymnosporia heterophylla (Eckl. and Zeyh.) Loes. Cell Culture. Plants, 10(8), p. 1493.
 
 
-- __Pitakbut, T.__ 2020. The Antiviral Activity of andrographolide, the Active Metabolite from Andrographis paniculata (Burm. f.) Wall. ex Nees. against SARS-CoV-2 by using bio- and chemoinformatic tools. Walailak Journal of Science and Technology (WJST), 17(8), p. 851–866.
+- __Pitakbut, T.__ 2020. The Antiviral Activity of andrographolide, the Active Metabolite from Andrographis paniculata (Burm. f.) Wall. ex Nees. against SARS-CoV-2 by using bio- and chemoinformatic tools. Walailak Journal of Science and Technology (WJST), 17(8), p. 851–866.   __[Co-corresponding author]__
 
 
 - __Pitakbut, T.__, Kusari, S., Kayser, O. and Spiteller, M., 2019. Isolation, purification and identification of 20–hydroxymaytenin as a bioactive metabolite from Maytenus heterophylla liquid cell culture. Planta Medica, 85(18), p. P180.
@@ -33,6 +36,8 @@
 &nbsp;
 
 ## *As a co-author*
+
+- Sangkanu, S., Heemman, A., Phoopha, S., __Pitakbut, T.__, Udomuksorn, W. and Dej-adisai, S., 2025. Antidiabetic Potential of Senna siamea: α‐Glucosidase Inhibition, Postprandial Blood Glucose Reduction, Toxicity Evaluation, and Molecular Docking. Scientifica, 1, p.6650349.
 
 - Classen, N., __Pitakbut, T.__, Schöfbänker, M., Kühn, J., Hrincius, E. R., Ludwig, S., ... & Kayser, O. (2024). Cannabigerol and Cannabicyclol Block SARS-CoV-2 Cell Fusion. Planta Medica.
 
@@ -62,6 +67,10 @@
 
 
 - Phoopha, S., Wattanapiromsakul, C., __Pitakbut, T.__ and Dej-Adisai, S., 2020. Chemical constituents of Litsea elliptica and their alpha-glucosidase inhibition with molecular docking. Pharmacognosy Magazine, 16(70), p. 327.
+
+- Dej-adisai, S., __Pitakbut, T.__ and Wattanapiromsakul, C., 2017. Alpha-glucosidase inhibitory activity and phytochemical investigation of Borassus flabellifer Linn. African Journal of Pharmacy and Pharmacology, 11(3), p.45-52.
+
+- Dej-Adisai, S. and __Pitakbut, T.__, 2015. Determination of a-glucosidase inhibitory activity from selected Fabaceae plants. Pakistan Journal of Pharmaceutical Sciences, 28(5). p. 1679 - 1683.
 
 ![](../images/line04.png)
 
