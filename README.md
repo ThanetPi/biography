@@ -14,7 +14,9 @@ I am a postdoctoral researcher under Prof. Dr. Astrid Groot at the Institute for
 
 &nbsp;
 
-The office website for the project can be found here: [Click](https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-science/valorisation/mmd-hub/navigation/mmd-project-predicting-and-designing-olfactory-molecules.html).
+Project website: [Click](https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-science/valorisation/mmd-hub/navigation/mmd-project-predicting-and-designing-olfactory-molecules.html).
+
+Official personal websit: [Click](https://www.uva.nl/en/profile/p/i/t.pitakbut/t.pitakbut.html)
 
 &nbsp;
 
