@@ -25,7 +25,7 @@ Official personal website: [Click](https://www.uva.nl/en/profile/p/i/t.pitakbut/
 
 My colleague and I are guest-editing a special issue on plant natural products research from classical to biotechnology and AI at Molecules MDPI. We welcome you to share and publish your valuable work with us.
 
-For any submission, please check this link https://www.mdpi.com/journal/molecules/special_issues/721F6GLNNG
+For any submission, please check this link.  [Click](https://www.mdpi.com/journal/molecules/special_issues/721F6GLNNG)
 
 Please feel free to contact us via email in case you have any questions. We care, looking forward to hearing from you.
 
