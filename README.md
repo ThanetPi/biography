@@ -29,6 +29,8 @@ For any submission, please check this link https://www.mdpi.com/journal/molecule
 
 Please feel free to contact us via email in case you have any questions. We care, looking forward to hearing from you.
 
+Deadline for manuscript submissions: **30 June 2026**
+
 &nbsp;
 
 ![](/images/banner_horizontal_resize.png)
@@ -40,7 +42,7 @@ Please feel free to contact us via email in case you have any questions. We care
 
 #### - 2025 September
 
-I received an oppotunity to talk and discuss about the potential of my previous project on AI and Thailand development at APTER 2025, Gent, Belgium.
+I received an opportunity to talk and discuss the potential of my previous project on AI and Thailand development at APTER 2025, Gent, Belgium.
 
 ![](/images/250920_apter2025.png)
 
