@@ -40,6 +40,10 @@ Deadline for manuscript submissions: **30 June 2026**
 ### *Lastest update :* 
 ![](/images/line04.png)
 
+### - 2025 November
+
+![](/images/251121_ChemAI_photo.png)
+
 #### - 2025 September
 
 I received an opportunity to talk and discuss the potential of my previous project on AI and Thailand development at APTER 2025, Gent, Belgium.
