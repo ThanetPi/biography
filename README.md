@@ -42,6 +42,8 @@ Deadline for manuscript submissions: **30 June 2026**
 
 ### - 2025 November
 
+We are excited to share a preliminary result from our project on identifying patterns in insect olfaction using machine learning at ChemAI 2025, organized by the University of Amsterdam. This initial finding was achieved by Michael Herzog (Bachelor student) under the supervision of all PIs. Well done!!!
+
 ![](/images/251121_ChemAI_photo.png)
 
 #### - 2025 September
