@@ -7,7 +7,7 @@
 ###### Go back to the first page [Click](../README.md)
 
 &nbsp;
-### - 2025 November
+#### - 2025 November
 
 We are excited to share a preliminary result from our project on identifying patterns in insect olfaction using machine learning at ChemAI 2025, organized by the University of Amsterdam. This initial finding was achieved by Michael Herzog (Bachelor student) under the supervision of all PIs. Well done!!!
 
