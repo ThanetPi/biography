@@ -25,11 +25,11 @@ He welcomes interdisciplinary research collaborations focused on natural product
 
 My colleague and I are guest-editing a special issue on plant natural products research from classical to biotechnology and AI at Molecules MDPI. We welcome you to share and publish your valuable work with us.
 
-For any submission, please check this link.  [**Click**](https://www.mdpi.com/journal/molecules/special_issues/721F6GLNNG)
+For submissions, please use this link.  [**Click**](https://www.mdpi.com/journal/molecules/special_issues/721F6GLNNG)
 
-Please feel free to contact us via email in case you have any questions. We care, looking forward to hearing from you.
+Please feel free to contact us via email in case you have any questions. We care, and we look forward to hearing from you.
 
-Deadline for manuscript submissions: **30 June 2026**
+Deadline for manuscript submissions: **30 December 2026**
 
 &nbsp;
 
